@@ -2,24 +2,24 @@ from System.Drawing import Color as netColor
 import Rhino
 import rhinoscriptsyntax as rs
 
-#defaults you can edit
+# defaults you can edit
 
-#finger size and layer to move to
+# finger size
 fingerSize = 7.0
 
-#make sure you have the same number of fields and values
-
+# default offsets to apply to counter act casting shrinkage
+# make sure you have the same number of fields and values
 offsetFields = ['Zero', 'Gypsum', 'Platinum']
 offsetValues = [ 0.000,  0.125,    0.350]
 #                0,      1,        2
 selectedOffset = 1 #Gypsum
 
-#move finger rail to a special layer and lock it
+# move finger rail to a special layer and lock it
 moveToLayer = True
 layerName = '0'
 layerColor = netColor.White
 
-#end defaults you can edit
+# end defaults you can edit
 
 def createFingerRail():
     offset = offsetValues[selectedOffset]
