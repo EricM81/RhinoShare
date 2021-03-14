@@ -43,7 +43,7 @@ If you want to change any of these settings, you can open FingerRail.py in Notep
 # finger size
 fingerSize = 7.0
 
-# default offsets to apply to counter act casting shrinkage
+# default offsets to counter act casting shrinkage
 # make sure you have the same number of fields and values
 offsetFields = ['Zero', 'Gypsum', 'Platinum']
 offsetValues = [ 0.000,  0.125,    0.350]
