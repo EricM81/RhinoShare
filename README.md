@@ -15,11 +15,11 @@ https://discord.gg/EuNnuUQ6NU
 3) Create aliases to call the scripts in **Tools -> Options -> Aliases**
 
 
-For example, my scripts located here:
+For example, my scripts are located here:
 ```
 C:\Users\EricM\Documents\CAD\zScripts\
 ```
-And here are my aliases in Rhino:
+And this is how my Rhino aliaseses are set:
 
 ![alt text](https://github.com/EricM81/RhinoScripts/blob/main/images/aliases.png?raw=true)
 
@@ -33,9 +33,9 @@ If you've measured your casting shrinkages for different investments, w:p ratios
 
 ![alt text](https://github.com/EricM81/RhinoScripts/blob/main/images/ShrinkageOffsets.png?raw=true)
 
-I also like to throw my finger rails onto a special locked layer so I don't accidently scale them.
+I also like to throw my finger rails onto a special locked layer so I don't accidently scale them (`MoveToLayer=True`).
 
-If you want to change any of these settings, you can open FingerRail.py in Notepad and edit the `# defaults` section:
+If you want to change any of these settings, you can open FingerRail.py in Notepad and edit the `#defaults you can edit` section:
 
 ```
 #defaults you can edit
