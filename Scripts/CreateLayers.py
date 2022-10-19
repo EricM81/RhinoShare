@@ -4,7 +4,7 @@ import Color as c
 
 def createLayers():
     name = rs.GetString("Parent Layer Name")
-    geoName = "Default::" + name
+    geoName = "Working::" + name
     cutterName = "Cutters::" + name
     layoutName = "Layout::" + name
     if geoName:
@@ -23,7 +23,7 @@ def createLayers():
             
             sc.sticky[lastHueKey] = hue
             
-            rs.CurrentLayer("Default")
+            rs.CurrentLayer("Working")
 
             #create geometry layers
             rs.AddLayer(geoName, c.HSVToColor(hue/360, 1.0, 1.0))
