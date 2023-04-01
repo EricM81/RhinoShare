@@ -19,13 +19,15 @@ def UndoAllSelectable():
         hiddenObjs = sc.sticky[e.hiddenObjsKey]
         if isinstance(hiddenObjs, list):
             rs.HideObjects(hiddenObjs)
-
+            print("Hid " + str(len(hiddenObjs)) + " objects.")
+    
         del sc.sticky[e.hiddenObjsKey]
 
     if sc.sticky.has_key(e.lockedObjsKey):
         lockedObjs = sc.sticky[e.lockedObjsKey]
         if isinstance(lockedObjs, list):
             rs.LockObjects(lockedObjs)
+            print("Locked " + str(len(lockedObjs)) + " objects.")
 
         del sc.sticky[e.lockedObjsKey]
 
