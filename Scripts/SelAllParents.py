@@ -11,8 +11,10 @@ def SelAllParents():
             lastcount = count
             rs.Command("_SelParents", False)
             count = len(rs.SelectedObjects(False, False))
-
-        rs.Command("Isolate", True)
+        
+        count = len(rs.SelectedObjects(False, False))
+        if 0 < count:
+            rs.Command("Isolate", True)
 
 
 
