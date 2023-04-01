@@ -15,7 +15,7 @@ def AllSelectable():
         # get the layer's visibility and lock state
         wasVisible = rs.LayerVisible(layerID, True, False)
         wasLocked = rs.LayerLocked(layerID, False)
-        # create a dictionary to store the layer's information
+
         state = e.LayerState(layerID, wasVisible, wasLocked)
         # add the dictionary to the list
         layerStates.append(state)
@@ -30,14 +30,11 @@ def AllSelectable():
     # loop through each object and get its visibility
     for obj in objects:
         # get the object's current visibility
-        hidden = rs.IsObjectHidden(obj)
-        locked = rs.IsObjectLocked(obj)
-        # if the object is not visible, add it to the hidden_objects list
-        if hidden:
+        if rs.IsObjectHidden(obj):
             hiddenObjs.append(obj)
-        if locked:
+        if rs.IsObjectLocked(obj):
             lockedObjs.append(obj)
-    
+            
     rs.ShowObjects(hiddenObjs)
     rs.UnlockObjects(lockedObjs)
 
