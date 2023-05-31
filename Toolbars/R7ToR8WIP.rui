@@ -19,9 +19,9 @@
         </text>
         <tool_bar_id>8e835cde-946f-4efc-9fe1-ded74352eacd</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59548" mru_width="868" point_pos="-2,-2" float_point="1418,179" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="210,230" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59505" mru_width="868" point_pos="-2,-2" float_point="1418,179" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="210,230" />
     </tool_bar_group>
-    <tool_bar_group guid="cce2e9e6-db9e-4c65-8e28-97fea7463afb" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="f8b9da8c-0218-44a1-ae7f-e44451bca96e" active_tool_bar_group="154313a3-0228-46ad-b800-cea43c39ca0b" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="cce2e9e6-db9e-4c65-8e28-97fea7463afb" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="f8b9da8c-0218-44a1-ae7f-e44451bca96e" active_tool_bar_group="154313a3-0228-46ad-b800-cea43c39ca0b" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Curve</locale_1033>
       </text>
@@ -31,9 +31,9 @@
         </text>
         <tool_bar_id>33051f50-07fc-4c52-8eda-a73092ad73c7</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59549" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,118" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59506" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,118" />
     </tool_bar_group>
-    <tool_bar_group guid="6e19a3ff-63ba-4de2-aafe-8e264ac83913" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="c1e20a5e-3881-49d6-9974-9ce0610a1f73" active_tool_bar_group="fff9ad73-d57d-4d44-90b3-3dbe80b5514b" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="6e19a3ff-63ba-4de2-aafe-8e264ac83913" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="c1e20a5e-3881-49d6-9974-9ce0610a1f73" active_tool_bar_group="fff9ad73-d57d-4d44-90b3-3dbe80b5514b" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Lines</locale_1033>
       </text>
@@ -43,9 +43,9 @@
         </text>
         <tool_bar_id>1ed18e0d-5d69-4aba-8bee-fb4b0378670e</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59550" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="181,118" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59507" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="181,118" />
     </tool_bar_group>
-    <tool_bar_group guid="1b377ba0-372a-4671-897e-e832b2a41839" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="8ac77652-5ba7-4aad-a090-b772306acb67" active_tool_bar_group="479f72d0-2fd6-41cf-969a-eec4a270af71" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="1b377ba0-372a-4671-897e-e832b2a41839" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="8ac77652-5ba7-4aad-a090-b772306acb67" active_tool_bar_group="479f72d0-2fd6-41cf-969a-eec4a270af71" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Point Edit</locale_1033>
       </text>
@@ -55,9 +55,9 @@
         </text>
         <tool_bar_id>db2bd610-5bde-4437-b0fd-9e6085fb5027</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59551" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,118" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59508" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,118" />
     </tool_bar_group>
-    <tool_bar_group guid="bf84a084-9d63-471b-985e-d743e16e9426" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="eb2c0cc9-d151-49e7-8625-340652eddc18" active_tool_bar_group="3ebfe753-0f2f-4b77-a09a-90318d50c3e4" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="bf84a084-9d63-471b-985e-d743e16e9426" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="eb2c0cc9-d151-49e7-8625-340652eddc18" active_tool_bar_group="3ebfe753-0f2f-4b77-a09a-90318d50c3e4" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Analyze</locale_1033>
       </text>
@@ -67,9 +67,9 @@
         </text>
         <tool_bar_id>037eb9a1-97fc-4a06-a7a7-c64d15f56cac</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59552" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="181,146" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59509" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="181,146" />
     </tool_bar_group>
-    <tool_bar_group guid="7807e3d7-b516-48f9-a174-5b74463d161f" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="c0057455-916a-4d9c-901b-ac49ddb355a5" active_tool_bar_group="60e9a2bb-25bc-4c4d-8e94-4d39ab0db19e" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="7807e3d7-b516-48f9-a174-5b74463d161f" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="c0057455-916a-4d9c-901b-ac49ddb355a5" active_tool_bar_group="60e9a2bb-25bc-4c4d-8e94-4d39ab0db19e" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Extend</locale_1033>
       </text>
@@ -79,9 +79,9 @@
         </text>
         <tool_bar_id>f2957636-b81a-4524-99d0-f5a2959f4e4a</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59553" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,90" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59510" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,90" />
     </tool_bar_group>
-    <tool_bar_group guid="85fec465-119f-4ed7-8067-39a70c7d4a04" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="9d41e5c3-3a72-40d8-9872-420470535589" active_tool_bar_group="3e535e25-93c3-435e-9c87-3c7b4919b614" single_file="False" hide_single_tab="False" point_floating="-2147483648,0">
+    <tool_bar_group guid="85fec465-119f-4ed7-8067-39a70c7d4a04" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="9d41e5c3-3a72-40d8-9872-420470535589" active_tool_bar_group="3e535e25-93c3-435e-9c87-3c7b4919b614" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
       <text>
         <locale_1033>Arc</locale_1033>
       </text>
@@ -91,7 +91,7 @@
         </text>
         <tool_bar_id>f3923429-17f7-461b-822b-491d35e14940</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59554" mru_width="32767" point_pos="-1,-1" float_point="-2147483648,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="125,90" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59511" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="125,90" />
     </tool_bar_group>
     <tool_bar_group guid="44ffe75e-750e-4617-8972-ea3c4be06c89" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="8d1bb839-ace5-414d-9df3-15e0f142bfae" active_tool_bar_group="accbb009-4ec0-4d85-8603-6adcbe17eec1" single_file="False" hide_single_tab="False" point_floating="1649,313">
       <text>
@@ -103,7 +103,7 @@
         </text>
         <tool_bar_id>35dd068f-b140-4030-bc0c-2dd496cec3b5</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59555" mru_width="868" point_pos="-2,-2" float_point="1649,313" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="181,202" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59512" mru_width="868" point_pos="-2,-2" float_point="1649,313" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="181,202" />
     </tool_bar_group>
     <tool_bar_group guid="e4800796-f7b3-4099-9e72-e2f36c2896b7" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="9f559f25-e8e0-4208-bfb3-e4f5f48e0a70" active_tool_bar_group="27ff69b8-b7bc-41c4-a8fd-66ecae95eb48" single_file="False" hide_single_tab="False" point_floating="1174,462">
       <text>
@@ -115,9 +115,9 @@
         </text>
         <tool_bar_id>7cd0c0ba-941b-4f8f-b56d-0cb32fb7efae</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59560" mru_width="32767" point_pos="-2,-2" float_point="1174,462" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="209,202" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59513" mru_width="868" point_pos="-2,-2" float_point="1174,462" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="209,202" />
     </tool_bar_group>
-    <tool_bar_group guid="3a46fad0-db7d-4dec-9c28-dcc3a962eb0c" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="181cd14d-6de3-4f89-9ced-34e5e340fae1" active_tool_bar_group="ac7b201e-5e82-4cea-ab86-d69ecce33b7c" single_file="False" hide_single_tab="False" point_floating="1423,457">
+    <tool_bar_group guid="3a46fad0-db7d-4dec-9c28-dcc3a962eb0c" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="181cd14d-6de3-4f89-9ced-34e5e340fae1" active_tool_bar_group="ac7b201e-5e82-4cea-ab86-d69ecce33b7c" single_file="False" hide_single_tab="False" point_floating="1977,568">
       <text>
         <locale_1033>R8Main</locale_1033>
       </text>
@@ -127,7 +127,7 @@
         </text>
         <tool_bar_id>2e007f53-e411-4907-b887-a11c0a7d0060</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59561" mru_width="32767" point_pos="-2,-2" float_point="1423,457" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="209,230" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59514" mru_width="868" point_pos="-2,-2" float_point="1977,568" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="209,230" />
     </tool_bar_group>
     <tool_bar_group guid="2e238ef6-16c2-49dc-bdbe-6ec7d1b0e39e" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="cc3cc2e1-eb6c-4b7d-a234-30079be7b2d3" active_tool_bar_group="09eaf66b-7a78-4dc6-a7b4-bacb41366213" single_file="False" hide_single_tab="False" point_floating="1671,457">
       <text>
@@ -139,7 +139,31 @@
         </text>
         <tool_bar_id>3d570919-bc11-4a20-8787-2621a6bea70c</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59562" mru_width="32767" point_pos="-2,-2" float_point="1671,457" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="209,230" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59515" mru_width="868" point_pos="-2,-2" float_point="1671,457" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="209,230" />
+    </tool_bar_group>
+    <tool_bar_group guid="b2701f59-df93-4397-ad3d-fa142820b27d" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="95cbc3ce-8c56-4438-b9e3-502c1a3383a6" active_tool_bar_group="eba416ce-1ec3-4244-87cb-84436e130a0e" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
+      <text>
+        <locale_1033>Visibility</locale_1033>
+      </text>
+      <tool_bar_group_item guid="eba416ce-1ec3-4244-87cb-84436e130a0e" major_version="1" minor_version="1">
+        <text>
+          <locale_1033>Visibility</locale_1033>
+        </text>
+        <tool_bar_id>997bcddb-31c5-4ce0-83bd-e795e4ff4730</tool_bar_id>
+      </tool_bar_group_item>
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59516" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="181,118" />
+    </tool_bar_group>
+    <tool_bar_group guid="fccac319-fcd3-41d6-b54a-d8b1434c1cf0" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="2d5d7947-b47f-4b86-8392-cb355a94d708" active_tool_bar_group="43d45171-a80d-41b0-a1a9-23264c15f68f" single_file="False" hide_single_tab="False" point_floating="-1431655808,0">
+      <text>
+        <locale_1033>Circle</locale_1033>
+      </text>
+      <tool_bar_group_item guid="43d45171-a80d-41b0-a1a9-23264c15f68f" major_version="1" minor_version="1">
+        <text>
+          <locale_1033>Circle</locale_1033>
+        </text>
+        <tool_bar_id>a1c2bffa-7201-4484-8200-c802cc2de79a</tool_bar_id>
+      </tool_bar_group_item>
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="4096" bar_id="59517" mru_width="32767" point_pos="-1,-1" float_point="-1431655808,0" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="153,90" />
     </tool_bar_group>
   </tool_bar_groups>
   <tool_bars>
@@ -860,7 +884,6 @@
           <locale_1033>Control point curve</locale_1033>
         </text>
         <left_macro_id>65447cf6-220e-4f84-9906-996f191d9abe</left_macro_id>
-        <right_macro_id>ed6b8619-eff7-41ed-accb-f134e23a70d6</right_macro_id>
       </tool_bar_item>
       <tool_bar_item guid="7c2fdb7d-c0bc-48fc-ace7-de63df87f364">
         <text>
@@ -5672,7 +5695,7 @@ _Rotate Pause 90</script>
       <menu_text>
         <locale_1033>Flow Rigid StretchNo</locale_1033>
       </menu_text>
-      <script>! _Flow Pause Rigid=Yes Stretch=No Roadlike=No PreserveStructure=No</script>
+      <script>! _Flow Pause Rigid=Yes RigidGroups=No Stretch=No Roadlike=No PreserveStructure=No</script>
     </macro_item>
     <macro_item guid="858e86b9-9523-41ef-b6c9-69d8c2084467" bitmap_id="58c04b35-4808-4a68-b192-39373033b882">
       <text>
@@ -5682,9 +5705,9 @@ _Rotate Pause 90</script>
         <locale_1033>Flow Rigid StretchYeah</locale_1033>
       </tooltip>
       <button_text>
-        <locale_1033>Flow Rigid StretchYeah</locale_1033>
+        <locale_1033>Flow Rigid StretchNo</locale_1033>
       </button_text>
-      <script>! _Flow Pause Rigid=Yes Stretch=Yes Roadlike=No PreserveStructure=No</script>
+      <script>! _Flow Pause Rigid=Yes RigidGroups=No Stretch=Yes Roadlike=No PreserveStructure=No</script>
     </macro_item>
     <macro_item guid="86ab05a9-3ed2-4915-b6d3-bb0c81e5b1ad" bitmap_id="54a40d5d-fe28-4e5b-bd7f-d7e0c3b61ab3">
       <text>
@@ -13372,7 +13395,7 @@ Enter Enter
       <menu_text>
         <locale_1033>Control point curve</locale_1033>
       </menu_text>
-      <script>! _CurveThroughPolyline pause CurveType=ControlPoint Degree=5  DeleteInput=No</script>
+      <script>! _CurveThroughPolyline pause CurveType=ControlPoint Degree=5 DeleteInput=No</script>
     </macro_item>
     <macro_item guid="3cc639d1-43bc-4930-a089-907a77d24902" ImportedFromFileGuid="1620dc3e-d67e-4db4-99d5-c72176706dcd" ImportedFromItemGuid="f3e84892-a668-4ba0-b9a4-94454d71b7d4" bitmap_id="008595ac-b178-4f94-a4c4-acea04531da7">
       <text>
